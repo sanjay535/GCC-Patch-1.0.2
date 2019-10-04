@@ -1,6 +1,6 @@
 # Python skeleton 1.0.2
 
-This skeleton incorporates changes for the Java skeleton for the Global Coding Challenge. For reference, files and folders added or modified include:
+This skeleton incorporates changes for the Python skeleton for the Global Coding Challenge. For reference, files and folders added or modified include:
 
 - .travis.yml
 - vcc_skeleton.py
